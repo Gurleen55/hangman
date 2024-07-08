@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+secret_word:
+- p
+- i
+- c
+- k
+- e
+- d
+grid: p i _ _ _ _
